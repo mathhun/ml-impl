@@ -1,6 +1,7 @@
 #encoding: utf-8
 
 import numpy as np
+import sys
 
 class _Node:
     """決定木のノードクラス"""
